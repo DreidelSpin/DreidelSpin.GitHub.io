@@ -1,0 +1,17 @@
+body {
+  font-family: "Times New Roman", serif;
+  font-weight: 400;
+  font-size: 1em;
+}
+
+main button {
+  width: 240px;
+  border: none;
+  padding: 0.8rem;
+  color: #fff;
+  font-size: 1rem;
+  border-radius: 10px;
+  margin-top: 1rem;
+  background: #004b8e;
+  background: linear-gradient(to bottom, #004b8e 1%, #002751 100%);
+}
